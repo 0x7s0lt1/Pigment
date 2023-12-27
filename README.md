@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/0x7s0lt1/Pigment/blob/main/src/logo/trans.png?raw=true" width='200'>
+  <img src="https://raw.githubusercontent.com/0x7s0lt1/Pigment/caf9226830f09806419aa827e788de1509cbad76/src/logo/c.svg" width='150'>
   <h1>Pigment Token</h1>
   <br/>
 </div>
